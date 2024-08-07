@@ -6,7 +6,7 @@ const App = () => {
     <>
     <Background
     element={ <div className="top-element  ">
-      <div className="box h-72 w-56 bg-zinc-900 translate-y-0 translate-x-0" ></div>
+      <div className="box h-72 w-56 bg-google translate-y-0 translate-x-0 text-reddit " ></div>
     </div>}
     />
     </>
