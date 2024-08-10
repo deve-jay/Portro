@@ -10,6 +10,7 @@ const Three = () => {
       style={{
         position: 'absolute',
         top: 0,
+        
       }}
     >
       <ShaderGradient 
