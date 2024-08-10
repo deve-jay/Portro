@@ -13,7 +13,11 @@ module.exports = {
   content: ["./src/**/*.{ts,tsx}"],
   darkMode: "class",
   theme: {
-    // rest of the code
+    extends:{
+      fontFamily: {
+        valencia:['"Valencia"',"Valencia"],
+      }
+    }
   },
   plugins: [
     addVariablesForColors,
