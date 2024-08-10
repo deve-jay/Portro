@@ -10,13 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-three/fiber": "^8.16.8",
+    "@types/three": "^0.167.1",
     "clsx": "^2.1.1",
-    "framer-motion": "^11.3.21",
+    "framer-motion": "^11.3.24",
     "mini-svg-data-uri": "^1.4.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "shadergradient": "^1.2.14",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-brand-colors": "^0.3.6",
+    "three": "^0.167.1",
     "twin.macro": "^3.4.1"
   },
   "devDependencies": {
